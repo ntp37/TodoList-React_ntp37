@@ -2,7 +2,7 @@
 Basic to-do list with LocalStorage using React, Tailwind CSS
 <br/>
 
-[Live site](https://todo-list-react-ntp37.netlify.app/)
+[Live site](https://ntp37-todo-list-react.netlify.app/)
 
 ### Tools
 * React
